@@ -16,9 +16,9 @@
 ##   For more information and documentation visit:
 ##     https://github.com/bitnami/bitnami-docker-mariadb
 
-FROM gcr.io/bitnami-containers/mariadb:10.1.19-r4
+FROM gcr.io/bitnami-containers/mariadb:10.1.21-r0
 
-ENV STACKSMITH_STACK_ID="z3wsthh" \
+ENV STACKSMITH_STACK_ID="of69ipg" \
     STACKSMITH_STACK_NAME="MariaDB for blitmaster/docker" \
     STACKSMITH_STACK_PRIVATE="1" \
     BITNAMI_CONTAINER_ORIGIN="stacksmith"
